@@ -18,3 +18,4 @@ D. 게시판 글 수정/ 삭제
 <br><br><br><br><br><br><br>
 
 E. 게시판 댓글쓰기
+![답변](https://user-images.githubusercontent.com/111558742/209516309-a4af0f6b-d56e-4cf4-877d-b716e5473fec.gif)
