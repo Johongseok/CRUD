@@ -1,4 +1,4 @@
-# [#조별 자바 게시판 프로젝트]
+# [#자바 게시판 팀 프로젝트]
 
 ### 1. 프로젝트 개요
 ###### : JSP/Servlet , OracleDB(sql)을 이용. 기본 CRUD(Create Read Update Delete)가 작동하는 홈페이지 구현
@@ -32,7 +32,8 @@
 ###### E. 각 게시판  댓글 작성
 <br><br><br>
 
-### 5-A. 회원가입
+# [기능 구현]
+### 5-A. 회원가입 
 ![회원가입](https://user-images.githubusercontent.com/111558742/209513582-220209ee-0758-4886-8f34-4debe31ea879.gif)
 <br><br><br><br><br><br><br>
 
